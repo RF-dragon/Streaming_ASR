@@ -3,6 +3,7 @@
 ([简体中文](README.md) | English)
 
 ### Description
+
 This program is a real-time recording version of the PaddleSpeech streaming ASR
 program.
 
@@ -25,6 +26,7 @@ python -m pip install pyaudio -U
    [Intel Itanium](http://www.winimage.com/zLibDll/zlib123dllia64.zip)) After
    the downloading process is finished, unzip the file and add the dll (or 
    dll_x64) folder to environment variables.
+
 If you encounter any problem while installing, please see
 [my blog](https://blog.csdn.net/weixin_48978134/article/details/125686296) for 
 details.

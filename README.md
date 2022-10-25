@@ -21,6 +21,7 @@ python -m pip install pyaudio -i https://pypi.tuna.tsinghua.edu.cn/simple -U
    [64位](http://www.winimage.com/zLibDll/zlib123dllx64.zip) | 
    [Intel Itanium](http://www.winimage.com/zLibDll/zlib123dllia64.zip)）下载完毕后，将文
    件解压，并将其中的dll（或dll_x64）文件夹添加到环境变量。
+
 如安装时遇到问题，请见
 [我的博客](https://blog.csdn.net/weixin_48978134/article/details/125686296)。
 
