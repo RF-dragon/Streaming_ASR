@@ -21,7 +21,7 @@ python -m pip install pyaudio -i https://pypi.tuna.tsinghua.edu.cn/simple -U
    [64位](http://www.winimage.com/zLibDll/zlib123dllx64.zip) | 
    [Intel Itanium](http://www.winimage.com/zLibDll/zlib123dllia64.zip)）下载完毕后，将文
    件解压，并将其中的dll（或dll_x64）文件夹添加到环境变量。
-如安装时遇到问题，请见https://blog.csdn.net/weixin_48978134/article/details/125686296。
+如安装时遇到问题，请见(https://blog.csdn.net/weixin_48978134/article/details/125686296)。
 
 ### 运行
 直接运行[Streaming ASR.py](Streaming%20ASR.py)即可。程序在开始运行时需要花一段时间加载模型，大约需要1分钟，请耐心等待。
