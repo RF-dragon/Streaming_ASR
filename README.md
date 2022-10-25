@@ -21,24 +21,18 @@ python -m pip install pyaudio -i https://pypi.tuna.tsinghua.edu.cn/simple -U
    [64位](http://www.winimage.com/zLibDll/zlib123dllx64.zip) | 
    [Intel Itanium](http://www.winimage.com/zLibDll/zlib123dllia64.zip)）下载完毕后，将文
    件解压，并将其中的dll（或dll_x64）文件夹添加到环境变量。
-如安装时遇到问题，请见(https://blog.csdn.net/weixin_48978134/article/details/125686296)。
+如安装时遇到问题，请见
+[我的博客](https://blog.csdn.net/weixin_48978134/article/details/125686296)。
 
 ### 运行
 直接运行[Streaming ASR.py](Streaming%20ASR.py)即可。程序在开始运行时需要花一段时间加载模型，大约需要1分钟，请耐心等待。
 
 ### 参考文献
-@inproceedings{zhang2022paddlespeech,
-    title = {PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit},
-    author = {Hui Zhang, Tian Yuan, Junkun Chen, Xintong Li, Renjie Zheng, Yuxin Huang, Xiaojie Chen, Enlei Gong, Zeyu Chen, Xiaoguang Hu, dianhai yu, Yanjun Ma, Liang Huang},
-    booktitle = {Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Demonstrations},
-    year = {2022},
-    publisher = {Association for Computational Linguistics},
-}
-@inproceedings{zheng2021fused,
-  title={Fused acoustic and text encoding for multimodal bilingual pretraining and speech translation},
-  author={Zheng, Renjie and Chen, Junkun and Ma, Mingbo and Huang, Liang},
-  booktitle={International Conference on Machine Learning},
-  pages={12736--12746},
-  year={2021},
-  organization={PMLR}
-}
+Zhang, H., Yuan, T., Chen, J., Li, X., Zheng, R., Huang, Y., Chen, X., Gong, 
+E., Chen, Z., Hu, X., Yu, D., Ma, Y., & Huang, L. (2022). PaddleSpeech: An 
+Easy-to-Use All-in-One Speech Toolkit. 
+_Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Demonstrations_
+.
+
+Zheng, R., Chen, J., Ma, M., & Huang, L. (2021). 
+_International Conference on Machine Learning_ (pp. 12736-12746). PMLR.
