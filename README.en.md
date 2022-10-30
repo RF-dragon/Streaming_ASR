@@ -26,4 +26,4 @@ Simple execute the program by running [Streaming ASR.py](Streaming%20ASR.py). Th
 ### References
 Zhang, H., Yuan, T., Chen, J., Li, X., Zheng, R., Huang, Y., Chen, X., Gong, E., Chen, Z., Hu, X., Yu, D., Ma, Y., & Huang, L. (2022). PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit. _Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Demonstrations_.
 
-Zheng, R., Chen, J., Ma, M., & Huang, L. (2021). _International Conference on Machine Learning_ (pp. 12736-12746). PMLR.
+Zheng, R., Chen, J., Ma, M., & Huang, L. (2021). _International Conference on Machine Learning_, 12736-12746. PMLR.

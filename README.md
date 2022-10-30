@@ -24,4 +24,4 @@ python -m pip install pyaudio -i https://pypi.tuna.tsinghua.edu.cn/simple -U
 ### 参考文献
 Zhang, H., Yuan, T., Chen, J., Li, X., Zheng, R., Huang, Y., Chen, X., Gong, E., Chen, Z., Hu, X., Yu, D., Ma, Y., & Huang, L. (2022). PaddleSpeech: An Easy-to-Use All-in-One Speech Toolkit. _Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Demonstrations_.
 
-Zheng, R., Chen, J., Ma, M., & Huang, L. (2021). _International Conference on Machine Learning_ (pp. 12736-12746). PMLR.
+Zheng, R., Chen, J., Ma, M., & Huang, L. (2021). _International Conference on Machine Learning_, 12736-12746. PMLR.
